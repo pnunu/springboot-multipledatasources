@@ -15,3 +15,6 @@ multipledatasources3：
 
 multipledatasources4：
 通过aop的方式实现多数据源
+
+multipledatasources5：
+通过aop的方式实现多数据源  spring boot 2.0
